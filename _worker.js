@@ -31,8 +31,7 @@ var listProxy = [
   { path: "/jp1", proxy: "133.167.108.98:443" },
   { path: "/jp2", proxy: "141.98.196.223:443" },
   { path: "/jp3", proxy: "43.239.249.54:443" },
-  { path: "/jp3", proxy: "43.239.249.54:443" },
-    { path: "/uk", proxy: "94.131.122.134:8443" },
+  { path: "/uk", proxy: "94.131.122.134:8443" },
   //tambahin sendiri
 ];
 var proxyIP;
